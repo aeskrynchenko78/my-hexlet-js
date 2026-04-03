@@ -1,0 +1,21 @@
+{
+  "name": "my-hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Hexlet",
+  "homepage": "https://github.com/aeskrynchenko78/my-hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/aeskrynchenko78/my-hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeskrynchenko78/my-hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "Skrynchenko.AE",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
