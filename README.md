@@ -1,2 +1,3 @@
-# my-hexlet-js
-Мое обучение
+# My-hexlet-js Project
+
+Мой первый проект на Hexlet
